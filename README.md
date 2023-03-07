@@ -28,3 +28,6 @@
 
 5. ex005
     - Escreva um programa que imprima a tabuada de um número no console.
+
+6. ex006
+    - Escreva um programa que verifique se um número é primo e imprima o resultado no console.
