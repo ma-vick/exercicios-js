@@ -31,3 +31,6 @@
 
 6. ex006
     - Escreva um programa que verifique se um número é primo e imprima o resultado no console.
+
+7. ex007
+    - Escreva um programa que verifique se uma palavra é um palíndromo e imprima o resultado no console.
