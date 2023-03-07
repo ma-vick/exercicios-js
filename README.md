@@ -25,3 +25,6 @@
 
 4. ex004
     - Escreva um programa que imprima os números de 1 a 10 no console.
+
+5. ex005
+    - Escreva um programa que imprima a tabuada de um número no console.
