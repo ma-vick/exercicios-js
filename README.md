@@ -22,3 +22,6 @@
 
 3. ex003
     - Escreva um programa que verifique se um número é positivo, negativo ou zero e imprima o resultado no console.
+
+4. ex004
+    - Escreva um programa que imprima os números de 1 a 10 no console.
