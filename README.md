@@ -34,3 +34,6 @@
 
 7. ex007
     - Escreva um programa em JavaScript que calcula a soma dos números em uma matriz.
+
+8. ex008
+    - Escreva um programa em JavaScript que encontra o maior elemento em uma matriz.
