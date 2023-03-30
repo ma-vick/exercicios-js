@@ -37,3 +37,21 @@
 
 8. ex008
     - Escreva um programa em JavaScript que encontra o maior elemento em uma matriz.
+
+9. ex009
+    - Escreva um programa em JavaScript que calcula o fatorial de um número.
+
+    ### função recursiva (recursividade)
+    
+    Ela será uma função recursiva caso ela mesma se invoque dentro do seu escopo.
+
+        ```
+        function recurse(){
+            if(condition){
+                // stop calling itself
+                // ...
+            } else {
+                recurse();
+            }
+        }
+        ```
